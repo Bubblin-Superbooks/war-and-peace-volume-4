@@ -6,6 +6,6 @@
     "HEAD": "html"
   },
   "name": "War and Peace Vol-IV",
-  "type": "text"
-
+  "type": "text",
+  "book_id": 455
 }
